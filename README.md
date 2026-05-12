@@ -30,4 +30,4 @@ The project demonstrates JavaScript objects, functions, event handling, DOM mani
 - Local Storage
 
 ## GitHub Pages Link
-
+https://patrickbaboop.github.io/Project-4/
